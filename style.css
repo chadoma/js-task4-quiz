@@ -1,0 +1,20 @@
+
+.question-container ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sub-title {
+    margin: 0;
+}
+
+.question {
+    border-bottom: 1px solid #919192;
+    border-top: 1px solid #919192;
+    line-height: 2rem;
+}
+
+.answer-items {
+    list-style: none;
+    padding: 0;
+}
