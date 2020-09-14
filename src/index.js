@@ -1,6 +1,6 @@
-import Quiz from './js/models/Quiz.js';
-import * as quizView from './js/views/quizView.js';
-import { elements, renderLoader, clearLoader } from './js/views/basis.js';
+import Quiz from '../js/models/Quiz.js';
+import * as quizView from '../js/views/quizView.js';
+import { elements, renderLoader, clearLoader } from '../js/views/basis.js';
 
 
 //取得したクイズを保存するobj
